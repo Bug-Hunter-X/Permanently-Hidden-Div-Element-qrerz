@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked bug in HTML/JavaScript. A div element is hidden using JavaScript, but no provision is made to make the div visible again after the initial click.  The solution provides a simple fix by toggling the visibility of the div.
